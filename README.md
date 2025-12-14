@@ -2,6 +2,20 @@
 
 I'm a Business Analytics student passionate about transforming complex data into strategic business insights. I leverage a blend of **Data Science**, **Data Engineering**, and **Full-Stack Development** skills to build scalable and impactful solutions.
 
+
+### 🌐 Let's Connect! 
+* **LinkedIn:** [linkedin.com/in/hazelmae-bea](https://www.linkedin.com/in/hazelmae-bea)
+* **Email:** hm.bea.work@gmail.com
+<!-- <p align="left">
+    <a href="https://linkedin.com/in/hazelmae-bea" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="mailto:hm.bea.work@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    </a>
+</p> -->
+
+
 ---
 
 ### 📊 My Toolkit & Expertise
@@ -34,13 +48,6 @@ I'm a Business Analytics student passionate about transforming complex data into
 * **Data-Driven Product Bundling Strategy (Capstone):** Engineered a Prescriptive Analytics Model for pricing and bundling optimization using **Market Basket Analysis**. *([Link to Capstone Repo/Details])*
 * **HealthLink WebApp:** Full-stack development and Project Manager for a medical benefits application built with **React** and **Firebase**.
 * **ETL Pipeline & OLAP Data Mart:** Developed scalable sales data analytics infrastructure using a custom **PHP/PostgreSQL ETL pipeline**.
-
----
-
-### 🌐 Let's Connect!
-
-* **LinkedIn:** [linkedin.com/in/hazelmae-bea](https://www.linkedin.com/in/hazelmae-bea)
-* **Email:** hm.bea.work@gmail.com
 
 ---
 <p align="center">

@@ -1,8 +1,7 @@
 ### Hi, I'm Hazel Mae C. Bea 👋
-* **LinkedIn:** [linkedin.com/in/hazelmae-bea](https://www.linkedin.com/in/hazelmae-bea) | **Email:** hm.bea.work@gmail.com
 I'm a Business Analytics student passionate about transforming complex data into strategic business insights. I leverage a blend of **Data Science**, **Data Engineering**, and **Full-Stack Development** skills to build scalable and impactful solutions.
 
-
+* **LinkedIn:** [linkedin.com/in/hazelmae-bea](https://www.linkedin.com/in/hazelmae-bea) | **Email:** hm.bea.work@gmail.com
 
 <!-- <p align="left">
     <a href="https://linkedin.com/in/hazelmae-bea" target="_blank">

@@ -6,6 +6,20 @@ I'm a Business Analytics student passionate about transforming complex data into
 
 ### 📊 My Toolkit & Expertise
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
+    <br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Agile%2FScrum-00739E?style=for-the-badge&logo=jira&logoColor=white" alt="Agile/Scrum Badge">
+</p>
+
 | Category | Tools & Languages | Focus Area |
 | :--- | :--- | :--- |
 | **Data Analytics** | `SQL` (PostgreSQL, MySQL), `Power BI`, `Tableau`, `RapidMiner`, `R` | Prescriptive Analytics, Market Basket Analysis, Statistical Modeling |
@@ -27,17 +41,12 @@ I'm a Business Analytics student passionate about transforming complex data into
 
 * **LinkedIn:** [linkedin.com/in/hazelmae-bea](https://www.linkedin.com/in/hazelmae-bea)
 * **Email:** hm.bea.work@gmail.com
-<!--
-**HazelMaeBea/HazelMaeBea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HazelMaeBea&show_icons=true&theme=dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=999999" alt="Hazel's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazelMaeBea&layout=compact&theme=dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=999999" alt="Top Languages">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+***Fun Fact:*** When I'm not cleaning data or building solutions, I enjoy expressing my creativity through **arts** and dedicating time to study **Japanese language**! 🎨🇯🇵

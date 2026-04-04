@@ -1,5 +1,5 @@
 ### Hi, I'm Hazel Mae C. Bea 👋
-I'm a Business Analytics student passionate about transforming complex data into strategic business insights. I leverage a blend of **Data Science**, **Data Engineering**, and **Full-Stack Development** skills to build scalable and impactful solutions.
+I'm a Business Analytics student passionate about transforming complex data into strategic business insights. I leverage a blend of **Data Engineering**, **Data Analytics**, and **Full-Stack Development** skills to build scalable and impactful solutions.
 
 * **LinkedIn:** [linkedin.com/in/hazelmae-bea](https://www.linkedin.com/in/hazelmae-bea) | **Email:** hm.bea.work@gmail.com
 
@@ -33,10 +33,10 @@ I'm a Business Analytics student passionate about transforming complex data into
 
 | Category | Tools & Languages | Focus Area |
 | :--- | :--- | :--- |
-| **Data Analytics** | `SQL` (PostgreSQL, MySQL), `Power BI`, `Tableau`, `RapidMiner`, `R` | Prescriptive Analytics, Market Basket Analysis, Statistical Modeling |
-| **Data Engineering** | `PHP`, `PostgreSQL`, `CRISP-DM` | ETL Pipelines, Data Warehousing, OLAP Cube Development |
-| **Development** | `Python` (Pandas, NumPy), `JavaScript` (React + TypeScript), `Firebase` | WebApp Development, Full-Stack Architecture, REST APIs |
-| **Methodology** | `Agile/Scrum`, `Jira`, `Git Flow` | Project Management, Cross-functional Leadership |
+| **Data Engineering** | `Python`(Pandas, NumPy), `PySpark`, `Airflow`, `dbt`, `Docker`, `PostgreSQL` | ETL/ELT Pipelines, Data Warehousing, OLAP Cube Development |
+| **Data Analytics** | `SQL` (PostgreSQL, MySQL), `Power BI` | Prescriptive Analytics, Market Basket Analysis, Statistical Modeling |
+| **Development** | `JavaScript` (React + TypeScript), `Firebase` | WebApp Development, Full-Stack Architecture, REST APIs |
+| **Methodology** | `Agile/Scrum`, `Kanban`, `Jira`, `Git Flow` | Project Management, Cross-functional Leadership |
 
 ---
 
